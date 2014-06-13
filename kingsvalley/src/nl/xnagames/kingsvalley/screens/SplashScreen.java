@@ -22,6 +22,7 @@ public class SplashScreen implements Screen
 	{
 		Gdx.gl.glClearColor(0f, 0f, 0f, 1f);
 		Gdx.gl.glClear(GL10.GL_COLOR_BUFFER_BIT);
+		
 	}
 
 	@Override

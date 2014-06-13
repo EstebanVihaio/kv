@@ -38,11 +38,7 @@ public class GameScreen implements Screen
 		this.explorer.draw(delta);
 		this.game.getBatch().end();
 		
-		/*
-		if ( Gdx.input.isKeyPressed(Keys.LEFT))
-		{
-			this.game.setScreen(this.game.getSplashScreen());
-		}*/
+		
 	}
 
 	@Override
